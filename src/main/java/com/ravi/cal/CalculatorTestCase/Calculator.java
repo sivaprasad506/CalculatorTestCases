@@ -2,15 +2,15 @@ package com.ravi.cal.CalculatorTestCase;
 
 public class Calculator {
     
-	public long add(long first, long second) {
+	public int add(int first, int second) {
         return first + second;
     }
     
-	public long subtract(long first, long second) {
+	public int subtract(int first, int second) {
         return first - second;
     }
     
-	public long multiply(long first, long second) {
+	public int multiply(int first, int second) {
         return first * second;
     }
     
